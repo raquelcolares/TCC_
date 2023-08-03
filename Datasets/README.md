@@ -5,5 +5,5 @@ https://www.kaggle.com/datasets/sadmansakib7/ecg-arrhythmia-classification-datas
 
 ### PhysioNet:
 
-* Dataset 1 - St. Petersburg Institute of Cardiological Technics (INCART): https://physionet.org/content/incartdb/1.0.0/
-* Dataset 2 - Massachusetts Institute of Technology (MIT): https://www.physionet.org/content/mitdb/1.0.0/
+* Dataset 1 - St. Petersburg Institute of Cardiological Technics (INCART): https://physionet.org/content/incartdb/1.0.0/  (49.1MB)
+* Dataset 2 - Massachusetts Institute of Technology (MIT): https://www.physionet.org/content/mitdb/1.0.0/ (43.3MB)
