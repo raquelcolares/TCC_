@@ -11,5 +11,5 @@ As arritmias são sequências de batimentos cardíacos irregulares, muito rápid
 O objetivo deste projeto é analisar os dados de diferentes bases de dados públicas sobre Arritmia, e também, desenvolver modelos de Machine Learning para análise da acurácia e precisão dos modelos na classificação de pacientes com a doença.
 
 <p align="center">
-    <img width="500" src="https://github.com/raquelcolares/TCC_PUC-Minas/blob/main/Images/cardio_pic2.jpg">
+    <img width="300" src="https://github.com/raquelcolares/TCC_PUC-Minas/blob/main/Images/cardio_pic2.jpg">
 </p>
